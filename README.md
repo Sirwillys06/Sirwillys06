@@ -24,7 +24,7 @@
 
 ### 🌐 Redes Sociales:
 
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" alt="Instagram" width="40" />
   </a>
