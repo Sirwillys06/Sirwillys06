@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="300"/>
+  <img align="center" src="https://w7.pngwing.com/pngs/454/401/png-transparent-logo-instagram-text-logo-number-thumbnail.png" alt="animation" width="300"/>
 </p>
 
 ---
