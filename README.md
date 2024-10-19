@@ -15,7 +15,7 @@
 
 - Actualmente, estoy aprendiendo **desarrollo web** y explorando diferentes lenguajes de programación.
 - Me interesa trabajar en proyectos que involucren el uso de **Java**, **Python**, y **JavaScript**.
-- 🎯 Meta a corto plazo: Mejorar mis habilidades en **Spring Boot** y **Desarrollo Frontend**.
+- 🎯 Meta a corto plazo: Mejorar mis habilidades en **todo lo relacionado con las nuevas tecnologías y programación en general**.
 - 📫 Puedes contactarme en: **whurtado180@gmail.com**
 - 🖼️ Soy diseñador 3D
 
