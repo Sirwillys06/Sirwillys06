@@ -60,6 +60,20 @@
   </a>
 </p>
 
+
+### 💻 Herramientas de diseño 3D:
+
+<p align="left">
+ 
+  <a href="https://www.sketchup.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTghae5CWWtW718wlqKHNW4GDy8ZVHSs72B3g&s" alt="sketchup" width="40" height="40" />
+  </a>
+    <a href="https://www.chaos.com/es/vray/sketchup?srsltid=AfmBOorRN4q3tDmjtKZCJnbWrACycGdFP5E9o1qxX-A4MRYA69nZT2_3" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/V/v-ray-logo-DF91C4C99D-seeklogo.com.png" alt="sketchup" width="40" height="40" />
+  </a>
+</p>
+
+
 ---
 
 ### 📊 Estadísticas:
