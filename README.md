@@ -25,11 +25,8 @@
 ### 🌐 Conéctate conmigo:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/willys-hurtado/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="LinkedIn" width="40" />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="Twitter" width="40" />
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" alt="Instagram" width="40" />
   </a>
 </p>
 
@@ -90,8 +87,8 @@
 ---
 
 <p align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
