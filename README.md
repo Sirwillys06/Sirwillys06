@@ -18,6 +18,7 @@
 - 🎯 Meta a corto plazo: Mejorar mis habilidades en **todo lo relacionado con las nuevas tecnologías y programación en general**.
 - 📫 Puedes contactarme en: **whurtado180@gmail.com**
 - 🖼️ Soy diseñador 3D
+- ⭐I´m Learning English
 
 ---
 
