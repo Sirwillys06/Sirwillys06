@@ -21,7 +21,7 @@
 
 ---
 
-### 🌐 Conecta conmigo:
+### 🌐 Redes Sociales:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/willys-hurtado/" target="_blank">
@@ -31,7 +31,7 @@
 
 ---
 
-### 💻 Lenguajes y Herramientas:
+### 💻 Lenguajes de Programacion:
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
