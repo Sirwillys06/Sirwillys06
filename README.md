@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=sirwillys06&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Perfil de visitas" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFwc3YyZmk5NDBmbHg3ZjF4MTN6aXI0cW1uaWtkdWZtZDZlYjV0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Desarrollo Web" width="300"/>
 </p>
 
