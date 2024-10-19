@@ -25,7 +25,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/willys-hurtado/" target="_blank">
-    <img align="center" src="https://w7.pngwing.com/pngs/454/401/png-transparent-logo-instagram-text-logo-number-thumbnail.png" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
