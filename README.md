@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/willys-hurtado/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://img.freepik.com/psd-premium/logotipo-aplicacion-instagram_23-2151544088.jpg?semt=ais_hybrid" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
