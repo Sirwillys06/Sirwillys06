@@ -52,7 +52,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
   <a href="https://www.sketchup.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/SketchUp-Logo.png" alt="sketchup" width="40" height="40" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTghae5CWWtW718wlqKHNW4GDy8ZVHSs72B3g&s" alt="sketchup" width="40" height="40" />
   </a>
 </p>
 
