@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://w7.pngwing.com/pngs/454/401/png-transparent-logo-instagram-text-logo-number-thumbnail.png" alt="animation" width="300"/>
+  <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFwc3YyZmk5NDBmbHg3ZjF4MTN6aXI0cW1uaWtkdWZtZDZlYjV0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="animation" width="300"/>
 </p>
 
 ---
