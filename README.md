@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/willys-hurtado/" target="_blank">
-    <img align="center" src="https://img.freepik.com/psd-premium/logotipo-aplicacion-instagram_23-2151544088.jpg?semt=ais_hybrid" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://w7.pngwing.com/pngs/454/401/png-transparent-logo-instagram-text-logo-number-thumbnail.png" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
