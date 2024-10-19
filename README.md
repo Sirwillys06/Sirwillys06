@@ -72,11 +72,11 @@
 
 ### 📊 Estadísticas:
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sirwillys06&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Estadísticas de Lenguajes" />
 </p>
 
-<p align="right">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sirwillys06&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff" alt="Estadísticas Generales" />
 </p>
 
