@@ -38,12 +38,16 @@
 
 ---
 
+<div align="center">
+
 ### 💻 Programacion y Otras Herramientas:
 
 | Lenguajes y Tecnologias 😎 | Herramientas en Diseño 3D 🎆 | 
 |:-:|:-:|
 |<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" /></a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" /></a> <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" /></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" /></a>|<a href="https://www.sketchup.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTghae5CWWtW718wlqKHNW4GDy8ZVHSs72B3g&s" alt="SketchUp" width="40" /></a> <a href="https://www.chaos.com/es/vray/sketchup" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/V/v-ray-logo-DF91C4C99D-seeklogo.com.png" alt="VRay" width="40" /></a>|
 
+
+</div>
 
 ---
 
