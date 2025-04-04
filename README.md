@@ -66,12 +66,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
 </p>
 
-### 🎨 Design & 3D
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/SketchUp_Logo.svg/512px-SketchUp_Logo.svg.png" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/V-Ray_Logo.png/512px-V-Ray_Logo.png" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Canva_%28logo%29.svg/512px-Canva_%28logo%29.svg.png" width="50"/>
-</p>
+### 🎨 Design & 3D Tools
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/sketchup.png" width="50" alt="SketchUp"/>
+  <img src="https://img.icons8.com/fluency/48/000000/vray.png" width="50" alt="V-Ray"/>
+  <img src="https://img.icons8.com/color/48/000000/canva.png" width="50" alt="Canva"/>
+</div>
+
 
 ---
 
