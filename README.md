@@ -69,9 +69,9 @@
 
 ### 🎨 Design & 3D Tools
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/SketchUp_Logo.png" width="50" alt="SketchUp"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Chaos_V-Ray_Logo.png" width="50" alt="V-Ray"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_logo.svg" width="50" alt="Canva"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/SketchUp_Logo.svg/512px-SketchUp_Logo.svg.png" width="50" alt="SketchUp"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/V-Ray_Logo.png/512px-V-Ray_Logo.png" width="50" alt="V-Ray"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Canva_%28logo%29.svg/512px-Canva_%28logo%29.svg.png" width="50" alt="Canva"/>
 </div>
 
 ### ✨ Animation Effect
