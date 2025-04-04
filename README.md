@@ -1,46 +1,3 @@
-# ✨ Welcome! I'm Willys Hurtado 👋
-
-<h3 align="center">🎓 Systems Engineering Student | 💻 Passionate About Web Development & Tech Innovation</h3>
-
-<div align="center">
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0EF7FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+%f0%9f%91%8b+I'm+Willys+Hurtado;A+tech+enthusiast+who+loves+to+build+awesome+things!;Always+learning+and+growing+every+day." alt="Typing SVG" />
-  <br>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sirwillys06&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Coding" width="500" />
-</div>
-
----
-
-## ✨ About Me:
-
-- 🎓 I'm currently studying **Software Development**.
-- 💻 Focused on **web development**, **data**, and **creative tools**.
-- 🎯 I aim to specialize in **emerging technologies & cloud solutions**.
-- 🧠 Currently mastering **Spring Boot**, **Docker**, and **Git**.
-- 🎨 3D Designer with experience in **SketchUp**, **V-Ray**, and **Canva**.
-- 🌍 Improving my **English** to expand internationally.
-- 💎 Reach me at: [whurtado180@gmail.com](mailto:whurtado180@gmail.com)
-
----
-
-## 🌐 Connect with Me:
-
-<div align="center">
-  <a href="https://www.instagram.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" width="40" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" alt="YouTube" /></a>
-  <a href="https://www.facebook.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" alt="Facebook" /></a>
-</div>
-
----
-
 ## 💻 Technologies & Tools
 
 ### 🖥️ Programming Languages
@@ -79,8 +36,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0EF7FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Technologies+%26+Tools;A+tech+stack+that+helps+me+build+great+projects!" alt="Typing SVG" />
 </div>
 
+---
 
+## 📊 GitHub Activity & Stats
 
-> “The only way to do great work is to love what you do.” – Steve Jobs
-
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuusuario&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
