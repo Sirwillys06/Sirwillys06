@@ -69,15 +69,17 @@
 
 ### 🎨 Design & 3D Tools
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/SketchUp_Logo.svg" width="50" alt="SketchUp"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/V-ray_logo.png" width="50" alt="V-Ray"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_logo.svg" width="50" alt="Canva"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/SketchUp-Logo.svg" width="50" alt="SketchUp"/>
+  <img src="https://seeklogo.com/images/V/v-ray-logo-7B6D3DCBA8-seeklogo.com.png" width="50" alt="V-Ray"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_logo.svg/512px-Canva_logo.svg.png" width="50" alt="Canva"/>
 </div>
 
 ### ✨ Animation Effect
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0EF7FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Technologies+%26+Tools;A+tech+stack+that+helps+me+build+great+projects!" alt="Typing SVG" />
 </div>
+
+
 
 > “The only way to do great work is to love what you do.” – Steve Jobs
 
