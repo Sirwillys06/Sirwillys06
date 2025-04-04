@@ -68,10 +68,11 @@
 
 ### 🎨 Design & 3D Tools
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/sketchup.png" width="50" alt="SketchUp"/>
-  <img src="https://img.icons8.com/fluency/48/000000/vray.png" width="50" alt="V-Ray"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketchup/sketchup-original.svg" width="50" alt="SketchUp"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Vray_logo.png" width="50" alt="V-Ray"/>
   <img src="https://img.icons8.com/color/48/000000/canva.png" width="50" alt="Canva"/>
 </div>
+
 
 
 ---
