@@ -4,7 +4,7 @@
 
 <div align="center">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0EF7FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Willys+Hurtado;A+tech+enthusiast+who+loves+to+build+awesome+things!;Always+learning+and+growing+every+day." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0EF7FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+%f0%9f%91%8b+I'm+Willys+Hurtado;A+tech+enthusiast+who+loves+to+build+awesome+things!;Always+learning+and+growing+every+day." alt="Typing SVG" />
   <br>
 </div>
 
@@ -26,7 +26,7 @@
 - 🧠 Currently mastering **Spring Boot**, **Docker**, and **Git**.
 - 🎨 3D Designer with experience in **SketchUp**, **V-Ray**, and **Canva**.
 - 🌍 Improving my **English** to expand internationally.
-- 📧 Reach me at: [whurtado180@gmail.com](mailto:whurtado180@gmail.com)
+- 💎 Reach me at: [whurtado180@gmail.com](mailto:whurtado180@gmail.com)
 
 ---
 
@@ -43,7 +43,7 @@
 
 ## 💻 Technologies & Tools
 
-### 🖥️ Programming Languages
+### 🖀️ Programming Languages
 | Python | Java | JavaScript | HTML | CSS |
 |--------|------|-----------|------|-----|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> |
@@ -56,12 +56,12 @@
 ### 🛠️ Tools
 | Git | GitHub | Visual Studio Code | Docker | MySQL | MySQL Workbench | Packet Tracer |
 |-----|--------|-------------------|--------|------|-----------------|--------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/MySQL_Workbench_Logo.png/220px-MySQL_Workbench_Logo.png" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Cisco_logo_blue_2016.svg/2560px-Cisco_logo_blue_2016.svg.png" width="50"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/MySQL_Workbench_Logo.png" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cisco_Packet_Tracer_Logo.png" width="40"/> |
 
 ### 🎨 Design & 3D Tools
 | SketchUp | V-Ray | Canva |
 |----------|------|-------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/SketchUp_Logo.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/V-ray_logo.png" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_logo.svg/512px-Canva_logo.svg.png" width="40"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/SketchUp_Logo.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/V-ray_logo.png" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_logo.svg" width="40"/> |
 
 ---
 
