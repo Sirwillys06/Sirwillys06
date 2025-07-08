@@ -51,9 +51,9 @@
 ### ☁️ Bases de Datos & Cloud
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
-  <img src="https://ih1.redbubble.net/image.352416471.2750/raf,360x360,075,t,fafafa:ca443f4786.u7.jpg" width="50" title="Mongo DB"/>
-  <img src="https://media.licdn.com/dms/image/v2/D4D12AQGJxybYd_ENnA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1716141530363?e=2147483647&v=beta&t=QtiYUxwpimCLQCph51gIx0S_Kh2uEl3uT35wqBL_elU" width="50" title="Redis"/>
-  <img src="https://e7.pngegg.com/pngimages/327/384/png-clipart-power-bi-business-intelligence-microsoft-azure-microsoft-dynamics-cloud-computing-cloud-computing-angle-text-thumbnail.png" width="50" title="Power BI"/>
+  <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/morihirok/20201005/20201005113654.png" width="50" title="Mongo DB"/>
+  <img src="https://www.josedomingo.org/pledin/assets/wp-content/uploads/2015/01/redis-300dpi.png" width="50" title="Redis"/>
+  <img src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-2013.png" width="50" title="Power BI"/>
 </div>
 
 ### ⚙️ Otras Herramientas
