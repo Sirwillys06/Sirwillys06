@@ -51,7 +51,8 @@
 ### ☁️ Bases de Datos & Cloud
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
-
+  <img src="https://ih1.redbubble.net/image.352416471.2750/raf,360x360,075,t,fafafa:ca443f4786.u7.jpg" width="50" title="Mongo DB"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQGJxybYd_ENnA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1716141530363?e=2147483647&v=beta&t=QtiYUxwpimCLQCph51gIx0S_Kh2uEl3uT35wqBL_elU" width="50" title="Redis"/>
   <img src="https://e7.pngegg.com/pngimages/327/384/png-clipart-power-bi-business-intelligence-microsoft-azure-microsoft-dynamics-cloud-computing-cloud-computing-angle-text-thumbnail.png" width="50" title="Power BI"/>
 </div>
 
@@ -60,9 +61,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
-  <img src="https://e7.pngegg.com/pngimages/472/750/png-clipart-canva-new-logo-tech-companies.png" width="50" title="Canva"/>
+  <img src="https://aula10formacion.com/wp-content/uploads/2024/11/Canva.png" width="50" title="Canva"/>
   <img src="https://www.sketchupaustralia.com.au/wp-content/uploads/SketchUp-Mark-1200pxl-RGB.png" width="50" title="SketchUp"/>
-  <img src="https://seeklogo.com/images/V/v-ray-logo-DF91C4C99D-seeklogo.com.png" width="50" title="V-Ray"/>
+  <img src="https://b2797690.smushcdn.com/2797690/wp-content/uploads/2023/11/V-Ray_Icon_Colour-Invert_RGB.png?lossy=1&strip=1&webp=1" width="50" title="V-Ray"/>
 </div>
 
 ---
