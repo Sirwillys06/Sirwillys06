@@ -13,8 +13,7 @@
 
 Contacto: whurtado180@gmail.com
 
-🔗 Conéctate Conmigo
-<p align="center"> <a href="https://www.linkedin.com/in/tu_usuario" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/></a>  <a href="https://twitter.com/tu_usuario" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" title="Twitter"/></a>  <a href="https://www.youtube.com/@tu_usuario" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" title="YouTube"/></a>  <a href="https://github.com/sirwillys06" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/></a> </p>
+🔗 Conéctate Conmigo   <a href="https://github.com/sirwillys06" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/></a> </p>
 �️ Tecnologías & Herramientas
 🔥 Lenguajes Principales
 <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" title="Golang" alt="Golang"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" alt="JavaScript"/> </div>
