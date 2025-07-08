@@ -51,8 +51,8 @@
 ### ☁️ Bases de Datos & Cloud
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" title="Firebase"/>
-  <img src="https://seeklogo.com/images/P/power-bi-logo-0B0FDC7EBD-seeklogo.com.png" width="50" title="Power BI"/>
+
+  <img src="https://e7.pngegg.com/pngimages/327/384/png-clipart-power-bi-business-intelligence-microsoft-azure-microsoft-dynamics-cloud-computing-cloud-computing-angle-text-thumbnail.png" width="50" title="Power BI"/>
 </div>
 
 ### ⚙️ Otras Herramientas
@@ -60,9 +60,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Canva_icon_2021.svg" width="50" title="Canva"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/SketchUp_Logo_2020.png" width="50" title="SketchUp"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/V-Ray_Logo.svg" width="50" title="V-Ray"/>
+  <img src="https://e7.pngegg.com/pngimages/472/750/png-clipart-canva-new-logo-tech-companies.png" width="50" title="Canva"/>
+  <img src="https://www.sketchupaustralia.com.au/wp-content/uploads/SketchUp-Mark-1200pxl-RGB.png" width="50" title="SketchUp"/>
+  <img src="https://seeklogo.com/images/V/v-ray-logo-DF91C4C99D-seeklogo.com.png" width="50" title="V-Ray"/>
 </div>
 
 ---
@@ -102,7 +102,7 @@
 
 🎯 **Objetivo**: Brindar a los usuarios una herramienta práctica y gratuita para monitorear sus consumos, anticipar gastos y facilitar contacto con empresas proveedoras.
 
-📎 Repositorio (privado/público): [Agrega el link si lo deseas]
+
 
 
 ---
