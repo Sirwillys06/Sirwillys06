@@ -68,25 +68,6 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sirwillys06&theme=github-dark&hide_border=true&area=true&custom_title=Mi+Actividad+en+GitHub" alt="Activity Graph"/>
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirwillys06&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirwillys06&layout=compact&theme=radical&hide_border=true" width="45%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirwillys06&theme=radical&hide_border=true" width="90%"/>
-</div>
-
-
-
----
-
 ## 🛠️ Proyecto Destacado – ServiApp
 
 **ServiApp** es una aplicación web desarrollada como proyecto académico para la **gestión de servicios públicos domiciliarios en Cartagena**.
@@ -116,6 +97,31 @@
 - Diseño de stands en SketchUp y V-Ray.
 - Dirección de montaje en ferias comerciales y eventos.
 - Participación en la planeación y logística de proyectos empresariales.
+
+
+
+
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sirwillys06&theme=github-dark&hide_border=true&area=true&custom_title=Mi+Actividad+en+GitHub" alt="Activity Graph"/>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sirwillys06&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirwillys06&layout=compact&theme=radical&hide_border=true" width="45%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirwillys06&theme=radical&hide_border=true" width="90%"/>
+</div>
+
+
+
+
 
 ---
 
