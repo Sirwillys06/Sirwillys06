@@ -124,11 +124,15 @@
 
 
 ---
+---
 
 ## 🧠 Frase que me define
 
-> "El éxito no es cuestión de suerte, es cuestión de ser imparable." — *Harvey Specter*
+<h2 align="center" style="color:#f39c12;"><strong>✨ "El éxito no es cuestión de suerte,<br> es cuestión de ser imparable." ✨</strong></h2>
+
+<h3 align="center">— <i>Harvey Specter</i> 💼🕶️</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Coding Quote"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Harvey Specter Vibes"/>
 </div>
+
