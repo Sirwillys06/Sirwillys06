@@ -1,9 +1,9 @@
 🚀 ¡Bienvenido a mi Perfil Profesional! Soy Willys Hurtado 👋
 
-<h3 align="center">💻 Ingeniero de Sistemas en Formación | 🌟 Apasionado por el Desarrollo Web & Tecnologías Emergentes</h3>
+<h3 align="center">💻 Tecnólogo en Desarrollo de Software en Formación | 🌟 Apasionado por la Innovación y el Desarrollo Web</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=¡Hola+👋+Soy+Willys+Hurtado!;Apasionado+por+crear+soluciones+tecnológicas+reales.;Líder+de+equipos+y+estratega+de+innovación.;Diseño+con+propósito,+programo+con+pasión." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=¡Hola+👋+Soy+Willys+Hurtado!;Apasionado+por+crear+soluciones+tecnológicas+reales.;Desarrollador+de+ServiApp+y+proyectos+web.;Siempre+aprendiendo+algo+nuevo." alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -18,20 +18,16 @@
 
 ## 🌟 Sobre Mí
 
-🎯 **Visión Integral**: Tengo una formación en ingeniería de sistemas, complementada con experiencia real liderando proyectos tecnológicos y logísticos en GH STAND.
+🎯 **Estudiante de Tecnología en Desarrollo de Software**, actualmente construyendo aplicaciones como ServiApp, usando Java, Spring Boot y más.
 
-🧠 **Multidisciplinario**: Combino habilidades de desarrollo, diseño 3D, análisis de datos y liderazgo de equipos.
+🧠 **Formación autodidacta y universitaria** en programación, arquitectura de software y gestión de datos.
 
-🎨 **Creatividad & Tecnología**: Diseño en Canva, SketchUp y renderizo con V-Ray para llevar ideas al siguiente nivel.
+📦 **Experiencia real** en GH Stand como apoyo administrativo, diseño 3D con SketchUp y V-Ray, y organización logística de ferias.
 
-📊 **Análisis Estratégico**: Automatizo procesos y visualizo datos con Power BI, orientando decisiones de negocio.
+📊 **Habilidades en análisis de datos** y visualización con Power BI, combinando tecnología con visión estratégica.
 
-🌍 **Inglés Técnico**: Nivel intermedio-avanzado para colaboración en entornos internacionales.
-
-📩 **Contacto**: whurtado180@gmail.com
-
-🔗 **Conéctate conmigo**:  
-<a href="https://github.com/sirwillys06" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/></a>
+📩 **Contacto**: whurtado180@gmail.com  
+🔗 **GitHub**: [sirwillys06](https://github.com/sirwillys06)
 
 ---
 
@@ -54,19 +50,19 @@
 
 ### ☁️ Bases de Datos & Cloud
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" width="50" title="Power BI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
-  <img src="https://railway.app/brand/logo-light.png" width="50" title="Railway"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" title="Firebase"/>
+  <img src="https://seeklogo.com/images/P/power-bi-logo-0B0FDC7EBD-seeklogo.com.png" width="50" title="Power BI"/>
 </div>
 
-### 🧠 Otras Herramientas
+### ⚙️ Otras Herramientas
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Canva_icon_2021.svg" width="50" title="Canva"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/SketchUp_Logo_2020.png" width="50" title="SketchUp"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/V-Ray_Logo.png" width="50" title="V-Ray"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/V-Ray_Logo.svg" width="50" title="V-Ray"/>
 </div>
 
 ---
@@ -86,22 +82,45 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirwillys06&theme=radical&hide_border=true" width="90%"/>
 </div>
 
+
+
 ---
 
-## 🏆 Experiencia en GH STAND
+## 🛠️ Proyecto Destacado – ServiApp
 
-**💼 Líder de Equipo & Planificación Estratégica**
+**ServiApp** es una aplicación web desarrollada como proyecto académico para la **gestión de servicios públicos domiciliarios en Cartagena**.
 
-- Coordinación de equipos multidisciplinarios para ejecución de proyectos tecnológicos y de diseño.
-- Reducción de tiempos administrativos en un 30% mediante soluciones digitales.
-- Análisis de datos para toma de decisiones usando Power BI.
-- Capacitación técnica a nuevos colaboradores.
+🔹 **Rol:** Desarrollador Fullstack  
+🔹 **Tecnologías utilizadas:** Java, Spring Boot, Spring Security, MySQL, HTML, CSS, JS  
+🔹 **Funciones clave:**
+- Registro y visualización de consumos mensuales de agua, energía y gas.
+- Predicción del próximo valor de la factura con base en consumos anteriores.
+- Sección de fallas reportadas por usuarios con geolocalización y contacto de emergencias.
+- Panel administrativo para gestión de usuarios y servicios.
+
+✅ **Resultado académico**: Calificación de **4.9 / 5.0**, destacando por su funcionalidad, diseño y robustez técnica.
+
+🎯 **Objetivo**: Brindar a los usuarios una herramienta práctica y gratuita para monitorear sus consumos, anticipar gastos y facilitar contacto con empresas proveedoras.
+
+📎 Repositorio (privado/público): [Agrega el link si lo deseas]
+
+
+---
+
+## 💼 Experiencia en GH STAND
+
+**Apoyo Administrativo & Técnico**
+
+- Gestión contable y soporte administrativo.
+- Diseño de stands en SketchUp y V-Ray.
+- Dirección de montaje en ferias comerciales y eventos.
+- Participación en la planeación y logística de proyectos empresariales.
 
 ---
 
 ## 🧠 Frase que me define
 
-> “Yo no tengo suerte. Hago que las cosas pasen.” – Harvey Specter
+> "El éxito no es cuestión de suerte, es cuestión de ser imparable." — *Harvey Specter*
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Coding Quote"/>
