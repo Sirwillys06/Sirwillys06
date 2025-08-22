@@ -1,4 +1,4 @@
-ahora en este porfavor quita lo que no tenga que ver con el desarrollo de software, lo demas dejalo intacto... 🚀 ¡Bienvenido a mi Perfil Profesional! Soy Willys Hurtado 👋
+¡Bienvenido a mi Perfil! Soy Willys Hurtado 👋
 
 <h3 align="center">💻 Tecnólogo en Desarrollo de Software en Formación | 🌟 Apasionado por la Innovación y el Desarrollo Web</h3>
 
@@ -89,17 +89,6 @@ ahora en este porfavor quita lo que no tenga que ver con el desarrollo de softwa
 
 
 ---
-
-## 💼 Experiencia en GH STAND
-
-**Apoyo Administrativo & Técnico**
-
-- Gestión contable y soporte administrativo.
-- Diseño de stands en SketchUp y V-Ray.
-- Dirección de montaje en ferias comerciales y eventos.
-- Participación en la planeación y logística de proyectos empresariales.
-
-
 
 
 
