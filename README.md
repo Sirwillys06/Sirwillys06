@@ -1,4 +1,4 @@
-🚀 ¡Bienvenido a mi Perfil Profesional! Soy Willys Hurtado 👋
+ahora en este porfavor quita lo que no tenga que ver con el desarrollo de software, lo demas dejalo intacto... 🚀 ¡Bienvenido a mi Perfil Profesional! Soy Willys Hurtado 👋
 
 <h3 align="center">💻 Tecnólogo en Desarrollo de Software en Formación | 🌟 Apasionado por la Innovación y el Desarrollo Web</h3>
 
@@ -136,4 +136,3 @@
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Harvey Specter Vibes"/>
 </div>
-
