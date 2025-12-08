@@ -1,6 +1,6 @@
 ¡Bienvenido a mi Perfil! Soy Willys Hurtado 👋
 
-<h3 align="center">💻 Tecnólogo en Desarrollo de Software 👨‍💻 |Ingeniero de Sistemas en formación  | 🌟 Apasionado por la Innovación y el Desarrollo Web</h3>
+<h3 align="center">💻 Tecnólogo en Desarrollo de Software 👨‍💻 | Ingeniero de Sistemas en formación  | 🌟 Apasionado por la Innovación y el Desarrollo Web</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=¡Hola+👋+Soy+Willys+Hurtado!;Apasionado+por+crear+soluciones+tecnológicas+reales.;Desarrollador+de+ServiApp+y+proyectos+web.;Siempre+aprendiendo+algo+nuevo." alt="Typing SVG" />
