@@ -1,6 +1,6 @@
 ¡Bienvenido a mi Perfil! Soy Willys Hurtado 👋
 
-<h3 align="center">💻 Tecnólogo en Desarrollo de Software en Formación | 🌟 Apasionado por la Innovación y el Desarrollo Web</h3>
+<h3 align="center">💻 Tecnólogo en Desarrollo de Software|Ingeniero de Sistemas en formación | 🌟 Apasionado por la Innovación y el Desarrollo Web</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=¡Hola+👋+Soy+Willys+Hurtado!;Apasionado+por+crear+soluciones+tecnológicas+reales.;Desarrollador+de+ServiApp+y+proyectos+web.;Siempre+aprendiendo+algo+nuevo." alt="Typing SVG" />
@@ -18,11 +18,9 @@
 
 ## 🌟 Sobre Mí
 
-🎯 **Estudiante de Tecnología en Desarrollo de Software**, actualmente construyendo aplicaciones como ServiApp, usando Java, Spring Boot y más.
+🎯 **Estudiante de INgenieria de Sistemas**, actualmente construyendo aplicaciones como ServiApp, usando Java, Spring Boot, Spring Security, Mongo DB y más.
 
 🧠 **Formación autodidacta y universitaria** en programación, arquitectura de software y gestión de datos.
-
-📦 **Experiencia real** en GH Stand como apoyo administrativo, diseño 3D con SketchUp y V-Ray, y organización logística de ferias.
 
 📊 **Habilidades en análisis de datos** y visualización con Power BI, combinando tecnología con visión estratégica.
 
@@ -37,7 +35,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" title="Golang"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
 </div>
 
